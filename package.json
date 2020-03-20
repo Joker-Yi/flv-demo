@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "flv.js": "^1.5.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
